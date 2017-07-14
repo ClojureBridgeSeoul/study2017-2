@@ -44,6 +44,7 @@
 
 - 매주 한일을 github에 올리기
   - 프로젝트 진행자의 경우는 그날 작성한 코드를 커밋
+    - 비공개 repo라면, 별도의 repo를 만들어서 진행 내용을 요약
   - 책등의 스터디를 한 분은 간단히 내용을 요약해서 커밋
 - 매주 인증샷을 [페북 그룹](https://www.facebook.com/groups/clojurebridge.seoul/) 에 올리기
 
