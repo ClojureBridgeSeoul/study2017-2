@@ -2,6 +2,8 @@
 
 스터디 방식은 2017년 [상반기 스터디 회고](https://github.com/ClojureBridgeSeoul/study2017-1/blob/master/review.md)를 통해 정했습니다.
 질문은 slack에서 부탁드려요!
+- http://clojure-korea.slack.com/ 의 #bridge-seoul
+
 ## 목적
 
 상반기 회고를 통해, 하반기 스터디의 목적은
