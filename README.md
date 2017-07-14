@@ -46,3 +46,6 @@
   - 책등의 스터디를 한 분은 간단히 내용을 요약해서 커밋
 - 매주 인증샷을 [페북 그룹](https://www.facebook.com/groups/clojurebridge.seoul/) 에 올리기
 
+## 끗
+
+감사합니다!
